@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @softwareengineerfs
 - 👀 I’m interested in playing football
 - 🌱 I’m currently learning programming (fronted)
-- 💞️ I’m looking to collaborate on great projects
+- 💞️ I’m looking forward to collaborate on great projects
 - 📫 How to reach me on telegram (@FIRDAVS-KUCHKAROV)
 
 <!---

@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning programming (fronted)
 - 💞️ I’m looking forward to collaborate on great projects
 - 📫 How to reach me on telegram (@FIRDAVS-KUCHKAROV)
+- 📫 You can also send me messages on the Email (softwareengineerfs@gmail.com)
 
 <!---
 softwareengineerfs/softwareengineerfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

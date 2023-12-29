@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing football
 - 🌱 I’m currently learning programming (fronted)
 - 💞️ I’m looking forward to collaborate on great projects
-- 📫 How to reach me on telegram (@FIRDAVS-KUCHKAROV)
+- 📫 How to reach me on telegram (https://t.me/softwareengineerfs)
 - 📫 You can also send me messages on the Email (softwareengineerfs@gmail.com)
 
 <!---
